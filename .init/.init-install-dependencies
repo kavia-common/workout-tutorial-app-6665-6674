@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/workout-tutorial-app-6665-6674/frontend_react_app"
+}
